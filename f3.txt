@@ -3,3 +3,4 @@ The 2nd line in the file.
 The 3rd line in the file.
 The 4th line in the file.
 The 5th line in the file.
+The 6th line in the file.
